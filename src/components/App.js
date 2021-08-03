@@ -1,9 +1,12 @@
-import './App.css';
+import React from "react";
+import ChartExample from "./ChartExample/ChartExample";
+import "./App.css"
 
 function App() {
   return (
     <div className="App">
-      <h1>Begin!!!! Eindopdracht</h1>
+      <h1>React Student dashboard</h1>
+      <ChartExample />
     </div>
   );
 }

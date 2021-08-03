@@ -1,1 +1,1 @@
-Begin Student Dashboard Eindopdracht van Winc. Academy
+Begin Student Dashboard Eindopdracht from Winc. Academy

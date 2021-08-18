@@ -1,0 +1,2865 @@
+{
+    "student": [
+        {
+            "name": "Evelyn",
+            "avatar": "https://robohash.org/teneturblanditiisculpa.png?size=50x50&set=set",
+            "id": 1,
+            "assignments": [
+                {
+                    "name": "SCRUM",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D1-1",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D2-1",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D2-2",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D2-3",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D2-4",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D2-5",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D3-1",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D3-2",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D3-4",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D3-5",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "Guess-the-number",
+                    "difficultyRating": 5,
+                    "funRating": 5
+                },
+                {
+                    "name": "W1D4-1",
+                    "difficultyRating": 4,
+                    "funRating": 5
+                },
+                {
+                    "name": "Kleurentoggle",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "Galgje",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D1-1",
+                    "difficultyRating": 1,
+                    "funRating": 5
+                },
+                {
+                    "name": "W2D1-2",
+                    "difficultyRating": 2,
+                    "funRating": 5
+                },
+                {
+                    "name": "W2D2-1",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D2-2",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D2-3",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D3-1",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D3-2",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D3-3",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D4-1",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D4-2",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D4-3",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "Filmzoeker",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D1-1",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D1-2",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D1-3",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D1-4",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D2-1",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D2-2",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D2-3",
+                    "difficultyRating": 3,
+                    "funRating": 5
+                },
+                {
+                    "name": "W3D3-1",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D3-2",
+                    "difficultyRating": 4,
+                    "funRating": 5
+                },
+                {
+                    "name": "W3D3-3",
+                    "difficultyRating": 3,
+                    "funRating": 5
+                },
+                {
+                    "name": "W3D3-4",
+                    "difficultyRating": 4,
+                    "funRating": 5
+                },
+                {
+                    "name": "W3D4-1",
+                    "difficultyRating": 5,
+                    "funRating": 5
+                },
+                {
+                    "name": "W3D4-2",
+                    "difficultyRating": 1,
+                    "funRating": 5
+                },
+                {
+                    "name": "Todo-List",
+                    "difficultyRating": 2,
+                    "funRating": 5
+                },
+                {
+                    "name": "W4D2-1",
+                    "difficultyRating": 1,
+                    "funRating": 5
+                },
+                {
+                    "name": "W4D2-2",
+                    "difficultyRating": 1,
+                    "funRating": 5
+                },
+                {
+                    "name": "W4D2-3",
+                    "difficultyRating": 1,
+                    "funRating": 5
+                },
+                {
+                    "name": "W4D2-4",
+                    "difficultyRating": 1,
+                    "funRating": 5
+                },
+                {
+                    "name": "W4D3-1",
+                    "difficultyRating": 1,
+                    "funRating": 5
+                },
+                {
+                    "name": "W4D3-2",
+                    "difficultyRating": 1,
+                    "funRating": 5
+                },
+                {
+                    "name": "W4D3-3",
+                    "difficultyRating": 1,
+                    "funRating": 5
+                },
+                {
+                    "name": "W4D3-4",
+                    "difficultyRating": 1,
+                    "funRating": 5
+                },
+                {
+                    "name": "W4D3-5",
+                    "difficultyRating": 1,
+                    "funRating": 5
+                },
+                {
+                    "name": "Next-Level CSS",
+                    "difficultyRating": 1,
+                    "funRating": 5
+                },
+                {
+                    "name": "W5D4-1",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "Lil_Playlist",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W6D1-1",
+                    "difficultyRating": 5,
+                    "funRating": 5
+                },
+                {
+                    "name": "W6D2-1",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "Eindopdracht",
+                    "difficultyRating": 5,
+                    "funRating": 5
+                }
+            ]
+        },
+        {
+            "name": "Aranka",
+            "id": 2,
+            "assignments": [
+                {
+                    "name": "SCRUM",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D1-1",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D2-1",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D2-2",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D2-3",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D2-4",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D2-5",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D3-1",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D3-2",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D3-4",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D3-5",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "Guess-the-number",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D4-1",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "Kleurentoggle",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "Galgje",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D1-1",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D1-2",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D2-1",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D2-2",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D2-3",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D3-1",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D3-2",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D3-3",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D4-1",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D4-2",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D4-3",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "Filmzoeker",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D1-1",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D1-2",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D1-3",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D1-4",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D2-1",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D2-2",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D2-3",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D3-1",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D3-2",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D3-3",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D3-4",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D4-1",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D4-2",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "Todo-List",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D2-1",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D2-2",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W4D2-3",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W4D2-4",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D3-1",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D3-2",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D3-3",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D3-4",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D3-5",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "Next-Level CSS",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W5D4-1",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "Lil_Playlist",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W6D1-1",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W6D2-1",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "Eindopdracht",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                }
+            ]
+        },
+        {
+            "name": "Floris",
+            "id": 3,
+            "assignments": [
+                {
+                    "name": "SCRUM",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D1-1",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D2-1",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D2-2",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D2-3",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D2-4",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D2-5",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D3-1",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D3-2",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D3-4",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D3-5",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "Guess-the-number",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D4-1",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "Kleurentoggle",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "Galgje",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D1-1",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D1-2",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D2-1",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D2-2",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D2-3",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D3-1",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D3-2",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D3-3",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D4-1",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D4-2",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D4-3",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "Filmzoeker",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D1-1",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D1-2",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D1-3",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D1-4",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D2-1",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D2-2",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D2-3",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D3-1",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D3-2",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D3-3",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D3-4",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D4-1",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D4-2",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "Todo-List",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "W4D2-1",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D2-2",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W4D2-3",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D2-4",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W4D3-1",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D3-2",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D3-3",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W4D3-4",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W4D3-5",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "Next-Level CSS",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W5D4-1",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "Lil_Playlist",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W6D1-1",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W6D2-1",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "Eindopdracht",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                }
+            ]
+        },
+        {
+            "name": "Hector",
+            "id": 4,
+            "assignments": [
+                {
+                    "name": "SCRUM",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D1-1",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D2-1",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D2-2",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D2-3",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D2-4",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D2-5",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D3-1",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D3-2",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D3-4",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D3-5",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "Guess-the-number",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D4-1",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "Kleurentoggle",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "Galgje",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D1-1",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D1-2",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D2-1",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D2-2",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D2-3",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D3-1",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D3-2",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D3-3",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D4-1",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D4-2",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D4-3",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "Filmzoeker",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D1-1",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D1-2",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D1-3",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D1-4",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D2-1",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D2-2",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D2-3",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D3-1",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D3-2",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D3-3",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D3-4",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D4-1",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D4-2",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "Todo-List",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D2-1",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D2-2",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D2-3",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W4D2-4",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W4D3-1",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W4D3-2",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D3-3",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D3-4",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W4D3-5",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "Next-Level CSS",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W5D4-1",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "Lil_Playlist",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W6D1-1",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W6D2-1",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "Eindopdracht",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                }
+            ]
+        },
+        {
+            "name": "Martina",
+            "id": 5,
+            "assignments": [
+                {
+                    "name": "SCRUM",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D1-1",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D2-1",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D2-2",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D2-3",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D2-4",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D2-5",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D3-1",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D3-2",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D3-4",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D3-5",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "Guess-the-number",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D4-1",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "Kleurentoggle",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "Galgje",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D1-1",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D1-2",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D2-1",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D2-2",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D2-3",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D3-1",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D3-2",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D3-3",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D4-1",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D4-2",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D4-3",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "Filmzoeker",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D1-1",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D1-2",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D1-3",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D1-4",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D2-1",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D2-2",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D2-3",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D3-1",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D3-2",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D3-3",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D3-4",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D4-1",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D4-2",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "Todo-List",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W4D2-1",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D2-2",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W4D2-3",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D2-4",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D3-1",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D3-2",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W4D3-3",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D3-4",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D3-5",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "Next-Level CSS",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W5D4-1",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "Lil_Playlist",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W6D1-1",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W6D2-1",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "Eindopdracht",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                }
+            ]
+        },
+        {
+            "name": "Maurits",
+            "id": 6,
+            "assignments": [
+                {
+                    "name": "SCRUM",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D1-1",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D2-1",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D2-2",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D2-3",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D2-4",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D2-5",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D3-1",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D3-2",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D3-4",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D3-5",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "Guess-the-number",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D4-1",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "Kleurentoggle",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "Galgje",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D1-1",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D1-2",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D2-1",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D2-2",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D2-3",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D3-1",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D3-2",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D3-3",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D4-1",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D4-2",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D4-3",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "Filmzoeker",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D1-1",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D1-2",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D1-3",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D1-4",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D2-1",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D2-2",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D2-3",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D3-1",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D3-2",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D3-3",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D3-4",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D4-1",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D4-2",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "Todo-List",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D2-1",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D2-2",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D2-3",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D2-4",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W4D3-1",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D3-2",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W4D3-3",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D3-4",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W4D3-5",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "Next-Level CSS",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W5D4-1",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "Lil_Playlist",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "W6D1-1",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W6D2-1",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "Eindopdracht",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                }
+            ]
+        },
+        {
+            "name": "Rahima",
+            "id": 7,
+            "assignments": [
+                {
+                    "name": "SCRUM",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D1-1",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D2-1",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D2-2",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D2-3",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D2-4",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D2-5",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D3-1",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D3-2",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D3-4",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D3-5",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "Guess-the-number",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D4-1",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "Kleurentoggle",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "Galgje",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D1-1",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D1-2",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D2-1",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D2-2",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D2-3",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D3-1",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D3-2",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D3-3",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D4-1",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D4-2",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D4-3",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "Filmzoeker",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D1-1",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D1-2",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D1-3",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D1-4",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D2-1",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D2-2",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D2-3",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D3-1",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D3-2",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D3-3",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D3-4",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D4-1",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D4-2",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "Todo-List",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D2-1",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D2-2",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W4D2-3",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W4D2-4",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D3-1",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D3-2",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D3-3",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D3-4",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W4D3-5",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "Next-Level CSS",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W5D4-1",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "Lil_Playlist",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W6D1-1",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W6D2-1",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "Eindopdracht",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                }
+            ]
+        },
+        {
+            "name": "Sandra",
+            "id": 8,
+            "assignments": [
+                {
+                    "name": "SCRUM",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D1-1",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D2-1",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D2-2",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D2-3",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D2-4",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D2-5",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D3-1",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D3-2",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D3-4",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D3-5",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "Guess-the-number",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D4-1",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "Kleurentoggle",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "Galgje",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D1-1",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D1-2",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D2-1",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D2-2",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D2-3",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D3-1",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D3-2",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D3-3",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D4-1",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D4-2",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D4-3",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "Filmzoeker",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D1-1",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D1-2",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D1-3",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D1-4",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D2-1",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D2-2",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D2-3",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D3-1",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D3-2",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D3-3",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D3-4",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D4-1",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D4-2",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "Todo-List",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W4D2-1",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W4D2-2",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D2-3",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D2-4",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D3-1",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D3-2",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W4D3-3",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D3-4",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D3-5",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "Next-Level CSS",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W5D4-1",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "Lil_Playlist",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W6D1-1",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W6D2-1",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "Eindopdracht",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                }
+            ]
+        },
+        {
+            "name": "Wietske",
+            "id": 9,
+            "assignments": [
+                {
+                    "name": "SCRUM",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D1-1",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D2-1",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D2-2",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D2-3",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D2-4",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D2-5",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D3-1",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D3-2",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D3-4",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D3-5",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "Guess-the-number",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D4-1",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "Kleurentoggle",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "Galgje",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D1-1",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D1-2",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D2-1",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D2-2",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D2-3",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D3-1",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D3-2",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D3-3",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D4-1",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D4-2",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D4-3",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "Filmzoeker",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D1-1",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D1-2",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D1-3",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D1-4",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D2-1",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D2-2",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D2-3",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D3-1",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D3-2",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D3-3",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D3-4",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D4-1",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D4-2",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "Todo-List",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D2-1",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W4D2-2",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D2-3",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W4D2-4",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W4D3-1",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D3-2",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W4D3-3",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D3-4",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D3-5",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "Next-Level CSS",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "W5D4-1",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "Lil_Playlist",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "W6D1-1",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W6D2-1",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "Eindopdracht",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                }
+            ]
+        },
+        {
+            "name": "Storm",
+            "id": 10,
+            "assignments": [
+                {
+                    "name": "SCRUM",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D1-1",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D2-1",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D2-2",
+                    "difficultyRating": 1,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D2-3",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W1D2-4",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D2-5",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D3-1",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W1D3-2",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D3-4",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W1D3-5",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "Guess-the-number",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W1D4-1",
+                    "difficultyRating": 4,
+                    "funRating": 2
+                },
+                {
+                    "name": "Kleurentoggle",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "Galgje",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D1-1",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D1-2",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D2-1",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D2-2",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D2-3",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W2D3-1",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D3-2",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D3-3",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W2D4-1",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W2D4-2",
+                    "difficultyRating": 4,
+                    "funRating": 3
+                },
+                {
+                    "name": "W2D4-3",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "Filmzoeker",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D1-1",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D1-2",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D1-3",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D1-4",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D2-1",
+                    "difficultyRating": 1,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D2-2",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W3D2-3",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D3-1",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D3-2",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W3D3-3",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D3-4",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W3D4-1",
+                    "difficultyRating": 2,
+                    "funRating": 4
+                },
+                {
+                    "name": "W3D4-2",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "Todo-List",
+                    "difficultyRating": 3,
+                    "funRating": 2
+                },
+                {
+                    "name": "W4D2-1",
+                    "difficultyRating": 2,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D2-2",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                },
+                {
+                    "name": "W4D2-3",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "W4D2-4",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D3-1",
+                    "difficultyRating": 3,
+                    "funRating": 4
+                },
+                {
+                    "name": "W4D3-2",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "W4D3-3",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D3-4",
+                    "difficultyRating": 3,
+                    "funRating": 1
+                },
+                {
+                    "name": "W4D3-5",
+                    "difficultyRating": 2,
+                    "funRating": 3
+                },
+                {
+                    "name": "Next-Level CSS",
+                    "difficultyRating": 4,
+                    "funRating": 1
+                },
+                {
+                    "name": "W5D4-1",
+                    "difficultyRating": 2,
+                    "funRating": 2
+                },
+                {
+                    "name": "Lil_Playlist",
+                    "difficultyRating": 1,
+                    "funRating": 2
+                },
+                {
+                    "name": "W6D1-1",
+                    "difficultyRating": 4,
+                    "funRating": 4
+                },
+                {
+                    "name": "W6D2-1",
+                    "difficultyRating": 1,
+                    "funRating": 1
+                },
+                {
+                    "name": "Eindopdracht",
+                    "difficultyRating": 3,
+                    "funRating": 3
+                }
+            ]
+        }
+    ]
+}

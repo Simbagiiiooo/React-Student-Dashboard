@@ -1,0 +1,73 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.css");
+
+.radiobuttons-students {
+  display: flex;
+  background-color: #7dedff;
+}
+.custom-radio input {
+  display: none;
+}
+.radio-btn {
+  margin: 16px;
+  width: 7.6rem;
+  height: 5.2rem;
+  border: 3px solid transparent;
+  display: inline-block;
+  border-radius: 10px;
+  position: relative;
+  text-align: center;
+  box-shadow: 0 0 20px #c3c3c367;
+  cursor: pointer;
+}
+.radio-btn > i {
+  font-family: "Font Awesome 5 Free";
+  background-color: #8373e6;
+  font-size: 20px;
+  position: absolute;
+  top: -15px;
+  left: 50%;
+  transform: translateX(-50%) scale(4);
+  border-radius: 20px;
+  padding: 3px;
+  transition: 0.2s;
+  pointer-events: none;
+  opacity: 0;
+}
+.icon-check::before {
+  content: "\f058";
+  color: #7dedff;
+  padding-right: 0.2rem;
+}
+.radio-btn .hobbies-icon {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -100%);
+}
+.radio-btn .hobbies-icon h3 {
+  color: #8373e6;
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.radio-btn .hobbies-icon img {
+  transform: translate(-0%, 145%);
+}
+
+.custom-radio input:checked + .radio-btn {
+  border: 3px solid #8373e6;
+}
+.custom-radio input:checked + .radio-btn > i {
+  opacity: 1;
+  transform: translateX(-50%) scale(1);
+}
+.student {
+  background-color: #96baff;
+  color: #476072;
+  font-size: 30px;
+  height: 3rem;
+  padding: 0;
+  margin-top: 0;
+  padding-top: 1rem;
+  text-align: center;
+}

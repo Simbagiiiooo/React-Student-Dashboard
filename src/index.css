@@ -1,1 +1,9 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.css");
 
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: #eeeeee;
+}

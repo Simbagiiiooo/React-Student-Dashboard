@@ -1,0 +1,62 @@
+nav {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  min-height: 10vh;
+  background-color: #7c83fd;
+  font-weight: bold;
+}
+.nav {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  font-size: 1.3rem;
+}
+.link {
+  text-decoration-line: none;
+  font-size: 1.3rem;
+  color: #476072;
+}
+.button {
+  padding: 16px 32px;
+  border-radius: 1rem;
+  text-align: center;
+  display: inline-block;
+  margin: 4px 2px;
+  transition-duration: 0.6s;
+  cursor: pointer;
+}
+.button2 {
+  background-color: #7c83fd;
+  font-size: 0.8rem;
+  border: 2px solid #7dedff;
+}
+.button2:hover {
+  background-color: #7dedff;
+  border: 2px solid #476072;
+}
+h2 {
+  background-color: #7c83fd;
+  color: #476072;
+  font-size: 3rem;
+}
+.flags {
+  padding: 1rem 0rem;
+}
+.flag--netherlands {
+  height: 3rem;
+  width: 3rem;
+  border-style: none;
+  margin-left: 0.3rem;
+  background-color: transparent;
+  cursor: pointer;
+}
+.flag--england {
+  height: 3rem;
+  width: 3rem;
+  border-style: none;
+  background-color: transparent;
+  cursor: pointer;
+}

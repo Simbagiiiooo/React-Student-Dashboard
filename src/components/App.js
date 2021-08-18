@@ -1,14 +1,17 @@
-import React from "react";
-import ChartExample from "./ChartExample/ChartExample";
-import "./App.css"
+import React from "react"
+import { BrowserRouter as Router } from 'react-router-dom'
+import '../i18n';
 
-function App() {
-  return (
-    <div className="App">
-      <h1>React Student dashboard</h1>
-      <ChartExample />
-    </div>
-  );
-}
+import Container from './Container'
+import Nav from './Nav/Nav'
+
+const App = () => (
+  <div className="App">
+    <Router>
+      <Nav />
+      <Container />
+    </Router>
+  </div>
+)
 
 export default App;

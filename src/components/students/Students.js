@@ -1,4 +1,5 @@
 import React from 'react'
+import { useHistory} from 'react-router-dom'
 import './Students.css'
 import {
     VictoryBar,
@@ -19,7 +20,13 @@ import Storm from '../images/storm.jpg'
 import Wietske from '../images/wietske.jpg'
 
 const Students = (props) => {
+
+        let displaystudent = useHistory();
+
+ 
+
     const displayOneStudent = () => {
+        displaystudent.push(`/student/${props.allStudentData.name}`);
     let onestudent = props.studentData.student.find(student => {
             return student.name === props.allStudentData.name
         })
@@ -37,6 +44,7 @@ const Students = (props) => {
             difficultyRating: ${person.difficultyRating},  
             funRating: ${person.funRating}`
     }))
+    
     return (
         <div>
             <div className="radiobuttons-students">

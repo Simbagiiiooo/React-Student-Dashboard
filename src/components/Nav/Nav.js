@@ -14,7 +14,7 @@ function Nav() {
     return (
         <div>
             <nav>
-                <div className="flags">
+          <div className="flags">
         <button
           className="flag--england"
           onClick={changeLanguage('nl')}
@@ -38,9 +38,8 @@ function Nav() {
       </div>
                 <h2 className="nav-h2">{t('nav-h2')}</h2>
                 <div className="nav">
-                    <button className="button button2"><Link className="link" to="/home">Home</Link></button>
-                    <button className="button button2"><Link className="link" to="/OverviewWithVictory">{t('button')}</Link></button>
-                    <button className="button button2"><Link className="link" to='/students/Allstudents'>{t('button2')}</Link></button>
+                    <button className="button button2"><Link className="link" to='/Home'>{t('button')}</Link></button>
+                    <button className="button button2"><Link className="link" to='/students'>{t('button2')}</Link></button>
                 </div>
             </nav>
         </div>

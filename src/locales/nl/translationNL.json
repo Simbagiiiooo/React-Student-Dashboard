@@ -1,10 +1,10 @@
 {
 "home-1": "Welkom bij het studenten dashboard!!",
 "home-2": "- Klik op de Nederlandse of Engelse knop om de taal te veranderen!",
-"home-3": "- Klik op de knop Gemiddelde grafiek in het plaatje of boven in de navigatie balk om meer gemiddelden (moeilijkheidsgraad en plezier) in een staaf en lijn grafiek te zien!",
+"home-3": "- Hieronder is de grafiek van de gemiddelde moeilijkheidsgraad en plezier van alle studenten te zien, onder de grafieken kun je kiezen wat je wilt zien.",
 "home-4": "- Klik op de knop Individuele beoordelingen boven in de navigatie balk om meer resultaten van de studenten te zien en beweeg over de staafgrafiek om de resultaten van moeilijkheidsgraad en plezier te zien.",
-"nav-h2": "studenten dashboard",
-"button": "Gemiddelde grafiek",
+"nav-h2": "Studenten Dashboard",
+"button": "Home",
 "button2": "Individuele beoordelingen",
 "average": "Gemiddelde staafgrafiek",
 "average-h3": "Scroll naar beneden voor de lijngrafiek",

@@ -1,50 +1,109 @@
-.home {
+.home-container {
   display: flex;
-  background-color: #96baff;
-  font-size: 30px;
-  margin-top: 0;
-  padding-left: 1rem;
-  padding: 4rem 0 7.5rem 0;
+  justify-content: space-around;
+  background-color: #7dedff;
 }
+
 .home-header {
   font-size: 3rem;
   background-color: #96baff;
   color: #476072;
   text-align: center;
-  padding-bottom: 3rem;
 }
-.home-1 {
-  font-size: 2.1rem;
+.home {
+  background-color: #7dedff;
+  height: 0rem;
+  width: 60rem;
+  margin: 1rem 0 1rem 0;
+  padding-left: 1rem;
+  padding: 0rem 0 5rem 0.3rem;
 }
 p {
   text-align: left;
   color: #476072;
-  font-size: 1.5rem;
-  margin-left: 2rem;
-  width: 35rem;
+  font-size: 1.3rem;
 }
-.img-home {
-  position: relative;
-  margin-right: 2rem;
-  margin-top: 2rem;
-  margin-left: 2rem;
-}
-.img-home .btn {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -100%);
-  -ms-transform: translate(-50%, -100%);
-  background-color: #7c83fd;
-  border: 2px solid #7dedff;
-  color: #476072;
-  font-size: 16px;
-  padding: 12px 24px;
-  cursor: pointer;
-  border-radius: 1rem;
-  text-align: center;
-}
-.img-home .btn:hover {
+.img {
   background-color: #7dedff;
-  border: 2px solid #476072;
+  margin: 1rem 0 1rem 0;
+}
+
+.radiobuttons1 {
+  display: flex;
+  justify-content: space-evenly;
+  height: 4.7rem;
+  background-color: #7dedff;
+}
+.custom-radio-average input {
+  display: none;
+}
+.radio-btn-average {
+  margin: 16px;
+  width: 5.6rem;
+  height: 3rem;
+  border: 3px solid transparent;
+  display: inline-block;
+  border-radius: 10px;
+  position: relative;
+  text-align: center;
+  box-shadow: 0 0 20px #c3c3c367;
+  cursor: pointer;
+}
+.radio-btn-average > i {
+  font-family: "Font Awesome 5 Free";
+  background-color: #8373e6;
+  font-size: 1rem;
+  position: absolute;
+  top: -15px;
+  left: 50%;
+  transform: translateX(-50%) scale(4);
+  border-radius: 20px;
+  padding: 3px;
+  transition: 0.2s;
+  pointer-events: none;
+  opacity: 0;
+}
+.icon-check::before {
+  content: "\f058";
+  color: #7dedff;
+  padding-right: 0.2rem;
+}
+.radio-btn-average .icon-average {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -25%);
+}
+.radio-btn-average .icon-average h3 {
+  color: #8373e6;
+  font-family: "Raleway", sans-serif;
+  font-size: 0.7rem;
+  font-weight: 400;
+}
+.custom-radio-average input:checked + .radio-btn-average {
+  border: 3px solid #8373e6;
+}
+.custom-radio-average input:checked + .radio-btn-average > i {
+  opacity: 1;
+  transform: translateX(-50%) scale(1);
+}
+.average {
+  text-align: center;
+  background-color: #96baff;
+  color: #476072;
+  font-size: 1.5rem;
+  padding-top: 0.5rem;
+  height: 2rem;
+}
+.average-h3 {
+  text-align: center;
+  background-color: grey;
+  color: whitesmoke;
+  font-size: 20px;
+  padding-top: 0rem;
+  height: 1.5rem;
+}
+.average-bottom {
+  height: 4.3rem;
+  background-color: #7c83fd;
 }

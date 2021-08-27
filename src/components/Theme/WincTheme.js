@@ -29,7 +29,7 @@ const wincTheme = {
     },
     chart: {
         width: 800,
-        height: 250,
+        height: 200,
         padding: 40
     },
     group: {

@@ -1,10 +1,10 @@
 {
 "home-1": "Welcome to the student dashboard!!",
 "home-2": "- Click on the Dutch or English button to change the language!",
-"home-3": "Click the Average Graph button in the picture or at the top of the navigation bar to see more averages (difficulty and fun) in a bar and line graph!",
+"home-3": "Below is the graph of the average difficulty and fun of all students to see, under the graphs you can choose what you want to see.",
 "home-4": "- Click the Individual Assessments button at the top of the navigation bar to see the student results and hover over the bar graph to see the difficulty and enjoyment results.",
 "nav-h2": "Student Dashboard",
-"button": "Average Graph",
+"button": "Home",
 "button2": "Individual assessments",
 "average": "Average Bargraph",
 "average-h3": "Scroll down for the line graph",

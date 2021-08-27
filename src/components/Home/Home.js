@@ -9,7 +9,7 @@ import {
     VictoryLine,
     VictoryGroup
 } from "victory"
-import Img from '../images/foto.jpg'
+import Img from '../../assets/images/foto.jpg'
 
 
 function Home(props) {

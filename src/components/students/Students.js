@@ -8,16 +8,16 @@ import {
     VictoryTooltip,
     VictoryGroup
 } from "victory"
-import Evelyn from '../images/evelyn.jpg'
-import Aranka from '../images/aranka.jpg'
-import Floris from '../images/floris.jpg'
-import Hector from '../images/hector.jpg'
-import Martina from '../images/martina.jpg'
-import Maurits from '../images/maurits.jpg'
-import Rahima from '../images/rahima.jpg'
-import Sandra from '../images/sandra.jpg'
-import Storm from '../images/storm.jpg'
-import Wietske from '../images/wietske.jpg'
+import Evelyn from '../../assets/images/evelyn.jpg'
+import Aranka from '../../assets/images/aranka.jpg'
+import Floris from '../../assets/images/floris.jpg'
+import Hector from '../../assets/images/hector.jpg'
+import Martina from '../../assets/images/martina.jpg'
+import Maurits from '../../assets/images/maurits.jpg'
+import Rahima from '../../assets/images/rahima.jpg'
+import Sandra from '../../assets/images/sandra.jpg'
+import Storm from '../../assets/images/storm.jpg'
+import Wietske from '../../assets/images/wietske.jpg'
 
 const Students = (props) => {
 

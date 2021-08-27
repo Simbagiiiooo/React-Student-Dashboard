@@ -1,6 +1,6 @@
 import React from 'react'
 import { useHistory} from 'react-router-dom'
-import './Students.css'
+import './Student.css'
 import {
     VictoryBar,
     VictoryChart,
@@ -19,7 +19,7 @@ import Sandra from '../../assets/images/sandra.jpg'
 import Storm from '../../assets/images/storm.jpg'
 import Wietske from '../../assets/images/wietske.jpg'
 
-const Students = (props) => {
+const Student = (props) => {
 
         let displaystudent = useHistory();
 
@@ -285,4 +285,4 @@ const Students = (props) => {
         </div>
     )
 }
-export default Students
+export default Student

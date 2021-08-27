@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { Switch, Route, Redirect} from "react-router-dom"
 import Home from './home/Home'
-import Students from './students/Students'
+import Student from './students/Student'
 
 const studentData = require('./Studentdata.json')
 const wincTheme = require('./theme/WincTheme')
@@ -44,8 +44,8 @@ const Container = () => {
                         handleChangeBarRating={handleChangeBarRating}
                         handleChangeLineRating={handleChangeLineRating} />
                 </Route>
-                <Route path="/:students">
-                    <Students
+                <Route path="/:student">
+                    <Student
                         studentData={studentData}
                         wincTheme={wincTheme}
                         handleStudentChange={handleStudentChange}

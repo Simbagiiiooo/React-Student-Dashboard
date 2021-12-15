@@ -3,7 +3,7 @@ import { BrowserRouter as Router } from 'react-router-dom'
 import '../i18n';
 
 import Container from './Container'
-import Nav from './nav/Nav'
+import Nav from './Nav/Nav'
 
 const App = () => (
   <div className="App">

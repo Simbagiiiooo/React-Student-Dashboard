@@ -1,10 +1,10 @@
 import React, { useState } from 'react'
 import { Switch, Route, Redirect} from "react-router-dom"
-import Home from './home/Home'
+import Home from './Home/Home'
 import Student from './students/Student'
 
 const studentData = require('./Studentdata.json')
-const wincTheme = require('./theme/WincTheme')
+const wincTheme = require('./Theme/WincTheme')
 
 
 const Container = () => {
